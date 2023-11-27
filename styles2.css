@@ -1,0 +1,234 @@
+.home_header {
+  display: flex;
+  flex-direction: row;
+  height: 80px;
+  margin-top: -8px;
+  margin-left: -9px;
+  margin-right: -9px;
+  position: fixed;
+  background-color: #b4b2e6;
+}
+
+.comscience {
+  width: 350px;
+  height: 80px;
+}
+
+.header_right {
+  display: flex;
+  flex-direction: row;
+  margin-left: 500px;
+  margin-right: 0px;
+  margin-top: 25px;
+
+}
+
+.home_1 {
+  margin-right: 24px;
+}
+
+.home_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.about_1 {
+  margin-right: 24px;
+}
+
+.about_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.faculty_1 {
+  margin-right: 40px;
+}
+
+.faculty_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.research_1 {
+  margin-right: 24px;
+}
+
+.research_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.secondpart {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.grouppic {
+  height: 400px;
+  width: 600px;
+}
+
+.short_course {
+  font-size: 50px;
+  color: rgb(90, 78, 9);
+  margin-top: -10px;
+
+}
+
+.home_course:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.home_course:active {
+  color: blue;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.courses_title {
+  font-size: 3em;
+  margin-right: 100px;
+  margin-left: 350px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.essay_main {
+  border: 2px solid gold;
+  box-shadow: #2C2A58 2px 1px 3px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.58);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(11.9px);
+  -webkit-backdrop-filter: blur(11.9px);
+  border: 1px solid rgba(255, 255, 255, 0.58);
+}
+
+.essay {
+  font-size: 3em;
+  margin-left: 400px;
+  text-decoration: underline;
+}
+
+.unordered_list {
+  font-size: 35px;
+}
+
+.essay_main2 {
+  border: 2px solid gold;
+  box-shadow: #2C2A58 2px 1px 3px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.58);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(11.9px);
+  -webkit-backdrop-filter: blur(11.9px);
+  border: 1px solid rgba(255, 255, 255, 0.58);
+}
+
+.essay1 {
+  font-size: 3em;
+  margin-left: 400px;
+  text-decoration: underline;
+}
+
+.footer_section {
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+  background-color: #2C2A58;
+  height: 700px;
+  color: white;
+  justify-content: space-between;
+}
+
+.top_footer {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+
+.top_footer1 {
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.footer_1 {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+.footer_1:hover {
+  color: gold;
+  cursor: pointer;
+  text-decoration: underline;
+  opacity: 0.2;
+
+}
+
+.newsletter {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.main_footer {
+  margin-bottom: 40px;
+  text-decoration: underline;
+  font-size: 2em;
+
+}
+
+.main_footer:hover {
+  color: rgb(146, 130, 39);
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.text_box {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 100px;
+  font-size: 15px;
+  border-color: rgb(152, 152, 202);
+  border-style: solid;
+  border-radius: 30px;
+  margin-right: 20px;
+
+}
+
+.main_footer:hover {
+  color: rgb(146, 130, 39);
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.main_footer:hover {
+  color: rgb(146, 130, 39);
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.footer_2:hover {
+  color: gold;
+  cursor: pointer;
+  text-decoration: underline;
+  opacity: 0.2;
+}

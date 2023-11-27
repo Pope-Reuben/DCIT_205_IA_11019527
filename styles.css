@@ -1,0 +1,440 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.home_header {
+  display: flex;
+  flex-direction: row;
+  height: 80px;
+  margin-top: -8px;
+  margin-left: -9px;
+  margin-right: -9px;
+  position: fixed;
+  background-color: #b4b2e6;
+}
+
+.home-text {
+  height: 700px;
+}
+
+.comscience {
+  width: 350px;
+  height: 80px;
+}
+
+.header_right {
+  display: flex;
+  flex-direction: row;
+  margin-left: 500px;
+  margin-right: 0px;
+  margin-top: 25px;
+
+}
+
+.home_1 {
+  margin-right: 24px;
+}
+
+.home_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.about_1 {
+  margin-right: 24px;
+}
+
+.about_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.faculty_1 {
+  margin-right: 40px;
+}
+
+.faculty_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.research_1 {
+  margin-right: 24px;
+}
+
+.research_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.homepagevideo {
+  height: 350px;
+  width: 700px;
+  margin-left: 300px;
+  align-content: center;
+  margin-top: 30px;
+
+
+}
+
+.courses_home {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  cursor: pointer;
+
+}
+
+.courses_home {
+  margin-top: 30px;
+  height: 300px;
+  justify-content: space-evenly;
+
+}
+
+.courses {
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+  margin-left: 50px;
+  border-radius: 5px;
+  border-color: #330e0e;
+  height: 300px;
+  padding-left: 5px;
+
+
+
+}
+
+.descriptions {
+  background-color: gold;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+  height: 90px;
+  width: 160px;
+
+}
+
+.descriptions p {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.secondpart {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.grouppic {
+  height: 400px;
+  width: 600px;
+}
+
+.readme1 {
+  margin-top: 10px;
+}
+
+.readme1:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.readme2 {
+  margin-top: 29px;
+}
+
+.readme2:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.readme3 {
+  margin-top: 28px;
+}
+
+.readme3:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.readme4 {
+  margin-top: 26px;
+}
+
+.readme4:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.image_main {
+  display: flex;
+  flex-direction: row;
+
+  margin-top: 150px;
+  margin-left: 5px;
+
+}
+
+.images_class {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.image_class1 {
+  width: 300px;
+  height: 250px;
+  overflow: hidden;
+}
+
+.image_class1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image_class2 {
+  width: 300px;
+  height: 150px;
+  background-color: #2C2A58;
+  color: white;
+  gap: 4;
+}
+
+.image_class3 {
+  width: 300px;
+  height: 30px;
+
+}
+
+.image_class3 p {
+  margin-left: 120px;
+}
+
+.image_class3 p:hover {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
+
+.cyber {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+
+.cyber2 {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.mobile {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.mobile2 {
+  margin-top: 25px;
+}
+
+.contain_section {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+}
+
+.contain_rightpic {
+  margin-right: 70px;
+  height: 500px;
+  width: 700px;
+}
+
+.contain_left {}
+
+.contain_left1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4em;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.essay {
+  margin-left: 240px;
+  font-size: 3em;
+  text-decoration: underline;
+  color: blue;
+
+  margin-right: 120px;
+  margin-left: 120px;
+}
+
+.essay1 {
+
+  margin-left: 120px;
+  font-size: 2em;
+}
+
+.essay_main {
+  border: 2px solid gold;
+  box-shadow: #2C2A58 2px 1px 3px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.58);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(11.9px);
+  -webkit-backdrop-filter: blur(11.9px);
+  border: 1px solid rgba(255, 255, 255, 0.58);
+}
+
+.Register {
+
+  display: flex;
+  margin-left: 600px;
+
+
+}
+
+.register_1 {
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 23px;
+  border-radius: 24px;
+  border-color: rgb(152, 152, 202);
+  border-style: solid;
+  background-color: rgb(178, 178, 230);
+}
+
+.register_1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: grey;
+
+}
+
+.footer_section {
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+  background-color: #2C2A58;
+  height: 700px;
+  color: white;
+  justify-content: space-between;
+}
+
+.top_footer {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+
+.top_footer1 {
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.footer_1 {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+.footer_1:hover {
+  color: gold;
+  cursor: pointer;
+  text-decoration: underline;
+  opacity: 0.2;
+
+}
+
+.main_footer {
+  margin-bottom: 40px;
+  text-decoration: underline;
+  font-size: 2em;
+
+}
+
+.main_footer:hover {
+  color: rgb(146, 130, 39);
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.newsletter {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.text_box {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 100px;
+  font-size: 15px;
+  border-color: rgb(152, 152, 202);
+  border-style: solid;
+  border-radius: 30px;
+  margin-right: 20px;
+
+}
+
+.footer_2 {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+.footer_2:hover {
+  color: gold;
+  cursor: pointer;
+  text-decoration: underline;
+  opacity: 0.2;
+}
+
+.main_2footer {
+  margin-bottom: 40px;
+  text-decoration: underline;
+  font-size: 2em;
+}
+
+.main_2footer:hover {
+  color: rgb(146, 130, 39);
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.top_footer3 {
+  margin-left: 30px;
+
+}
+
+.header_top {
+  margin-top: 100px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  font-size: 4em;
+
+
+}
+
+.home-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.homepagevideo_div {
+  margin-top: -30px;
+}
+
+.last_footer {}
