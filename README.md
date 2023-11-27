@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Well hello there!
 
 ## Introduction and the purpose of the website.
@@ -11,3 +12,6 @@ Using the current official website of the Department as a lookup, I will be be b
 
  What I have learned from the project.
  there some html tags that I have never come across before but this project has forced me to study these tags. this project has opened my eyes and has helped me to look at a website in a different way.
+=======
+# DCIT_205_IA
+>>>>>>> 7e783162ccce7bc1813957a6158c299f315ce7e0
